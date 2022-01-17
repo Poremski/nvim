@@ -1,2 +1,13 @@
 require "options"
 require "keymaps"
+require "plugins"
+require "colorscheme"
+
+require "plugins/comment"
+require "plugins/gitsigns"
+require "plugins/git-blame"
+require "plugins/gitlinker"
+require "plugins/nvim-tree"
+require "plugins/bufferline"
+require "plugins/lualine"
+require "plugins/toggleterm"
